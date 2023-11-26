@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Runa-w
 - 👀 I’m interested in Ecological Restoration, Marine Bioacoustics, Bioelectricity, and Generative Code
-- 🌱 I’m currently learning Python and Swedish while indepentently studying magnetoreception and quantum biology.
+- 🌱 I’m currently learning Data Science (Python) and Swedish while indepentently studying magnetoreception and quantum biology.
 - 💞️ I’m would love to put my skills to use helping evnrionmental organizations, startups, NGOs.
 - 📫 You can reach me at runa_w@gmx.com or www.linkedin.com/mackayla-johnson
 
