@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Runa-w
-- 👀 I’m interested in Ecological Restoration, Marine Bioacoustics, Bioelectricity, and Machine Learning (NLP specifically)
-- 🌱 I’m currently learning Data Science (Python) and Swedish while indepentently studying magnetoreception and sensory biology.
-- 💞️ I would love to put my skills to use helping evnrionmental organizations, startups, NGOs.
+- 👀 I’m interested in Python and Natural Language Processing
+- 🌱 I’m currently learning Data Science with Python
+- 💞️ I would love to put my skills to use helping organizations, startups, or NGOs.
 - 📫 You can reach me at runa_w@gmx.com or www.linkedin.com/mackayla-johnson
+- Fun Fact - In my free time I am studying Swedish and sensory biology
+
+- Bio - I have been a freelance web designer and art editor for 4 years and fell in love with python while taking a university course in programming. Since then I have continued learning as much as I can of the language and its various libraries, as well as Linux and SQL. As my studies have progressed, I have developed a passionate interest in machine learning and natural language processing.
 
 <!---
 Runa-w/Runa-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
